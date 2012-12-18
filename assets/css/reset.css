@@ -1,0 +1,148 @@
+/* 
+	RESET - ADAPTED FROM MEYER RESET
+	URL - http://meyerweb.com/eric/tools/css/reset/
+	LICENSE - PUBLIC DOMAIN
+*/
+
+/* RESET
+----------------------------------------------------------------------------------------------------*/
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, caption, canvas, center, cite, code,
+dd, del, details, dfn, dialog, div, dl, dt, em, embed, fieldset, figcaption, figure, form, footer, header, hgroup, h1, h2, h3, h4, h5, h6, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav,object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, tt, table, tbody, textarea, tfoot, thead, time, tr, th, td, u, ul, var, video { 
+	vertical-align: baseline; 
+	white-space: normal;
+	text-align: left; 
+	margin: 0;  
+	padding: 0; 
+	border: 0; 
+	outline: 0;
+	background: transparent; 
+  text-decoration:none;
+  color: #5d5d5d;    
+}
+
+/*FONTS*/
+html, body, select, input, textarea,p {
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 0.85em; 
+	font-weight: inherit; 
+	font-style: inherit; 
+  color: #5d5d5d;  
+}
+
+h2 {
+  padding-left:22px;
+  text-transform:uppercase;
+  font-weight: bold; 
+  font-size: 1.40em; 
+  color: #090909; 
+  background:url(../images/arrow.png) 13px 11px no-repeat;
+  background-position:0px 4px; 
+}
+
+h3 {
+  text-transform:uppercase;
+  font-weight: bold; 
+  font-size: 1.20em; 
+  color: #5d5d5d; 
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { 
+	display: block; }
+								  
+ol, ul { list-style: none; }
+
+blockquote, q { quotes: none; }
+
+:focus { outline: 0; }
+
+table { 
+	border-collapse: collapse; 
+	border-spacing: 0; }
+
+
+/* MAIN STYLES */  
+#logo {
+  margin-top: 4px;
+  margin-bottom: -40px;
+}
+#black_bar {
+	padding-top: 14px;
+	background: black;
+	border-style: solid;
+	border-bottom-width: 1px;
+	border-color: #636466;
+}
+
+#grey_bar {
+	background: #cdd1d8;
+}
+#promos {
+  padding-top:10px;
+}
+.grey_line {
+	border-style: solid;
+	border-bottom-width: 2px;
+	border-color: #cdd1d8;
+}
+
+.black_line {
+	border-style: solid;
+	border-bottom-width: 4px;
+	border-color: black;
+}
+
+.bottom_text {
+  padding:12px 0px 12px;
+
+}
+.content_block {
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+}
+
+.fl_right {
+float: right;
+}
+
+.navigation {
+  padding-bottom:10px;
+}
+
+.navigation li {
+  display:inline;
+}
+
+.nav_item A {
+  padding-left:16px;
+  text-transform:uppercase;
+  font-weight: bold; 
+  font-size: 1.2em; 
+  color: #0f3273;
+}
+
+.nav_item A:HOVER {
+  color: #5d5d5d;
+}
+
+.tel_number {
+  padding-top:3px;
+}
+
+.block {
+  margin-bottom: 6px;
+}
+
+.block_text {
+  padding-top: 12px;
+  padding-bottom: 10px;
+}
+
+.block_link {
+  color: #0f3273;
+  text-transform:uppercase;
+  font-weight: bold;  
+}
+
+.primary {
+  padding-bottom:12px;
+}
