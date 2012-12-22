@@ -65,6 +65,10 @@ table {
   margin-top: 4px;
   margin-bottom: -40px;
 }
+
+#logo IMG {
+  width:100%;
+}
 #black_bar {
 	padding-top: 14px;
 	background: black;
