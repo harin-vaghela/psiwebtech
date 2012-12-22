@@ -83,6 +83,11 @@ table {
 #promos {
   padding-top:10px;
 }
+
+#promos IMG:HOVER {
+  opacity: 0.2;
+  filter:alpha(opacity=1000);
+}
 .grey_line {
 	border-style: solid;
 	border-bottom-width: 2px;
@@ -109,7 +114,7 @@ float: right;
 }
 
 .navigation {
-  padding-bottom:10px;
+  padding-bottom:8px;
 }
 
 .navigation li {
@@ -129,9 +134,11 @@ float: right;
 }
 
 .tel_number {
-  padding-top:3px;
+  padding-top:5px;
+  font-size: 1.1em;   
 }
 
+  
 .block {
   margin-bottom: 6px;
 }
@@ -139,12 +146,17 @@ float: right;
 .block_text {
   padding-top: 12px;
   padding-bottom: 10px;
+  font-size:1.125em;
 }
 
 .block_link {
   color: #0f3273;
   text-transform:uppercase;
   font-weight: bold;  
+}
+
+.block_link:HOVER {
+  color: #000000;
 }
 
 .primary {
