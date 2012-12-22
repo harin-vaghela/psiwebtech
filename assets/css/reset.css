@@ -153,6 +153,7 @@ float: right;
   color: #0f3273;
   text-transform:uppercase;
   font-weight: bold;  
+  font-size: 1.1em;
 }
 
 .block_link:HOVER {
