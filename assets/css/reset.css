@@ -129,6 +129,10 @@ float: right;
   color: #0f3273;
 }
 
+.selected A {
+  color: #5d5d5d;
+}
+
 .nav_item A:HOVER {
   color: #5d5d5d;
 }
@@ -141,6 +145,18 @@ float: right;
   
 .block {
   margin-bottom: 6px;
+}
+
+.article_block_link {
+  color: #0f3273;
+  font-weight: bold;  
+  font-size: 1.2em;
+}
+
+.article_block_text {
+  padding-top: 12px;
+  padding-bottom: 10px;
+  font-size:1.2em;
 }
 
 .block_text {
