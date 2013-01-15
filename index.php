@@ -23,13 +23,15 @@
       <!--logo, nav and contact -->
       <header id="header_nav" class="row span_12">				                                    
         <!-- logo -->    				                                    
-        <h1 id="logo" class="col span_4">					                                            
+        <h1 id="logo" class="col span_4 clear">					                                            
           <img src="assets/images/logo-large.png" alt="PSI WebTech" />
         </h1>				                                    
-        <!-- telephone number -->    				                                    
-        <p class="fl_right tel_number" class="col span_8">					                                            
-          <a href="mailto:info@psiwebtech.co.uk?Subject=Web%20Contact">info@psiwebtech.com</a> | 020 9999 9999 				                                    
-        </p>	
+        <!-- telephone number -->    	
+        <div class="col span_8 clear">			                                    
+          <p class="fl_right tel_number">					                                            
+            <a href="mailto:info@psiwebtech.co.uk?Subject=Web%20Contact">info@psiwebtech.com</a> | 020 9999 9999 				                                    
+          </p>	
+        </div>
       </header>	
       
       <!--Navigation -->                            

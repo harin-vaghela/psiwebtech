@@ -12,7 +12,7 @@
   </article>                                   
   <article class="col span_4">
     <h2 class="block  black_line">Get In Touch</h2> 
-    <p class="block_text">If you want to discuss your specific requirements please get in touch with us.<br><br><br><br><br></p>				            
+    <p class="block_text">If you'd like to discuss yor specific requirements with us we'd love to hear from you. <br><br><br><br><br></p>				            
     <a class="block_link" href="mailto:info@psiwebtech.com">> Email Us</a>		            
   </article>                      			              			              			                            
 </section>   

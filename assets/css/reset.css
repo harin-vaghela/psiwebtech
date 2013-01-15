@@ -141,6 +141,7 @@ float: right;
 .tel_number {
   padding-top:5px;
   font-size: 1.1em;   
+  height:100%;
 }
 
   
@@ -163,7 +164,7 @@ float: right;
 .block_text {
   padding-top: 12px;
   padding-bottom: 10px;
-  font-size:1.125em;
+  font-size:1.2em;
 }
 
 .block_link {
