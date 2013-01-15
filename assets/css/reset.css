@@ -167,6 +167,12 @@ float: right;
   font-size:1.2em;
 }
 
+.home_block_text {
+  padding-top: 12px;
+  padding-bottom: 10px;
+  font-size:1.145em;
+}
+
 .block_link {
   color: #0f3273;
   text-transform:uppercase;
