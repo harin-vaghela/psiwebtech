@@ -54,7 +54,7 @@
                                       
     </div>                   
     
-    <!-- Footer -->   
+    <!-- Footers -->                  
     <?php  
         require_once("resources/templates/footer.php");  
     ?>  
