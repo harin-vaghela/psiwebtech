@@ -78,7 +78,7 @@ table {
 }
 
 #grey_bar {
-	background: #cdd1d8;
+	background: #0F3273;
 }
 #promos {
   padding-top:10px;
@@ -102,6 +102,7 @@ table {
 
 .bottom_text {
   padding:12px 0px 12px;
+  color: #e5e5e5;
 
 }
 .content_block {
@@ -179,3 +180,4 @@ float: right;
 .primary {
   padding-bottom:12px;
 }
+                                                                  
