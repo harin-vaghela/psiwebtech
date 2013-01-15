@@ -33,30 +33,30 @@
       
       <!--Navigation -->                          
       <?php  
-          require_once("/resources/templates/navigation.php");  
+          require_once("resources/templates/navigation.php");  
       ?>                            			                            
   		
       <!-- rotating images-->                     
       <?php  
-          require_once("/resources/templates/header-images.php");  
+          require_once("resources/templates/header-images.php");  
       ?>       
 
       <!-- content-->                     
       <?php  
-          require_once("/resources/templates/content.php");  
+          require_once("resources/templates/content.php");  
       ?>       
                                 
       
     <!--Services-->			                            
     <?php  
-        require_once("/resources/templates/services.php");  
+        require_once("resources/templates/services.php");  
     ?>  
                                       
     </div>                   
     
     <!-- Footer -->   
     <?php  
-        require_once("/resources/templates/footer.php");  
+        require_once("resources/templates/footer.php");  
     ?>  
     
     <!--JS for Slider   -->

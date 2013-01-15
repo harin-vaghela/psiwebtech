@@ -34,34 +34,34 @@
       
       <!--Navigation -->                            
       <?php  
-          require_once("/resources/templates/navigation.php");  
+          require_once("resources/templates/navigation.php");  
       ?>                                      			                            
 		
       <!-- rotating images-->                     
       <?php  
-          require_once("/resources/templates/header-images.php");  
+          require_once("resources/templates/header-images.php");  
       ?>       
       
       <!--Content Home -->                   
       <?php  
-          require_once("/resources/templates/content-home.php");  
+          require_once("resources/templates/content-home.php");  
       ?>   
       
       <!--Services-->			                            
       <?php  
-          require_once("/resources/templates/services.php");  
+          require_once("resources/templates/services.php");  
       ?>
         
       <!-- Updates -->   
       <?php  
-          require_once("/resources/templates/updates.php");  
+          require_once("resources/templates/updates.php");  
       ?>                                      
   
           		                    
       </div>                   
       <!-- Footer -->   
       <?php  
-          require_once("/resources/templates/footer.php");  
+          require_once("resources/templates/footer.php");  
       ?>  
         
       <!--JS for Slider   -->
