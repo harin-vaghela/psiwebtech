@@ -1,11 +1,10 @@
 <!DOCTYPE HTML>             
   <head>                   
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />		                    
-    <title>PSI WebTech                    
-    </title>		                    
-    <meta name="description" content="" />		                    
-    <meta name="keywords" content="" />		                    
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <?php  
+          require_once("resources/templates/title-keywords.php");  
+    ?>   
+
     <link rel="stylesheet" media="all" href="assets/css/ie.css" />		                                   
     <link rel="stylesheet" media="all" href="assets/css/reset.css" />		                    
     <link rel="stylesheet" media="all" href="assets/css/responsive-gs-12col.css" />		
@@ -54,11 +53,11 @@
           require_once("resources/templates/services.php");  
       ?>
         
-      <!-- Updates -->   
+      <!-- Updates    
       <?php  
           require_once("resources/templates/updates.php");  
       ?>                                      
-  
+      -->
           		                    
       </div>                   
       <!-- Footer -->   
@@ -73,6 +72,19 @@
         $(window).load(function() {
             $('#slider').nivoSlider();
         });
-      </script>            
+      </script>        
+      <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-37719433-1']);
+        _gaq.push(['_trackPageview']);
+      
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      
+      </script>    
   </body>
 </html>

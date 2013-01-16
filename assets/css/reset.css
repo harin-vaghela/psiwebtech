@@ -100,11 +100,21 @@ table {
 	border-color: black;
 }
 
-.bottom_text {
+.bottom_text, .bottom_text A {
   padding:12px 0px 12px;
-  color: #e5e5e5;
+  color: #e5e5e5;           
+  text-align:right;
+  font-size:10px;
+} 
 
+.right_align {
+  text-align:right;
 }
+
+.left_align {
+  text-align:left;
+}
+
 .content_block {
   padding-bottom: 5px;
   margin-bottom: 5px;
