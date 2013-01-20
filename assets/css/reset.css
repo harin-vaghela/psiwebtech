@@ -67,7 +67,7 @@ table {
 }
 
 #logo IMG {
-  width:100%;
+  width:80%;
 }
 #black_bar {
 	padding-top: 14px;
@@ -80,11 +80,12 @@ table {
 #grey_bar {
 	background: #0F3273;
 }
+
 #promos {
   padding-top:10px;
 }
 
-#promos IMG:HOVER {
+#promos A:HOVER {
   opacity: 0.2;
   filter:alpha(opacity=1000);
 }
@@ -197,4 +198,4 @@ float: right;
 .primary {
   padding-bottom:12px;
 }
-                                                                  
+                                                            
