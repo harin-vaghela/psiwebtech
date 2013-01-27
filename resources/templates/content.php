@@ -26,6 +26,22 @@
           case 'privacy' :
           require_once("resources/templates/content-privacy.php");
           break;
+
+          case 'itinfrastructure' :
+          require_once("resources/templates/content-itinfrastructure.php");
+          break;
+          
+          case 'remote-support' :
+          require_once("resources/templates/content-remote-support.php");
+          break;
+          
+          case 'procurement' :
+          require_once("resources/templates/content-procurement.php");
+          break;
+          
+          case 'cloud-services' :
+          require_once("resources/templates/content-cloud-services.php");
+          break;                                        
                                                               
           default:
           echo $_GET['page'];          

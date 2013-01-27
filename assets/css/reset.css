@@ -41,7 +41,7 @@ h2 {
 
 h3 {
   text-transform:uppercase;
-  padding-top:8px;
+  padding-top:24px;
   font-weight: bold; 
   font-size: 1.20em; 
   color: #5d5d5d; 
@@ -58,6 +58,12 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 ol, ul {
   list-style: none; 
   font-size:1.2em;
+  padding-left: 12px;
+}
+
+ul ul {
+  list-style: none; 
+  font-size:1em;
   padding-left: 12px;
 }
 
