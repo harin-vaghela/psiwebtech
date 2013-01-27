@@ -32,7 +32,6 @@
           break;
                                           
           default:
-            echo $_GET['page'];    
             $pageTitle="PSI WebTech - Consulting, IT Infrastructure and Support Services";
             $metaKeywords="IT Consulting, IT Infrasstructure, Delivery, Telecoms, Project Support, Technical Consultancy, Strategic Consultancy, Application Support, Remote Desktop Support, Desktop Support, Managed Services, Infrastructure Security, Break/Fix, Remote Working, Cloud Solutions, Cloud, Cloud Services, Procurement";
             $metaDescription="PSI WebTech is a provider of strategic and techncial consultancy, project support, remote desktop monitoring and support, procurement and cloud management services. At PSI, we�re truly focused on understanding and meeting client needs, with our longstanding expertise and vendor independence underpinning our pioneering worldwide services.";            

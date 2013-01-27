@@ -20,14 +20,10 @@
     <div class="container">			 			                            
        <!--logo, nav and contact -->
       <header id="header_nav" class="row span_12">				                                    
-        <!-- logo -->    				                                    
-        <h1 id="logo" class="col span_4">					                                            
-          <img src="assets/images/logo-large.png" alt="<?php echo $pageTitle ?>" />
-        </h1>				                                    
-        <!-- telephone number -->    				                                    
-        <p class="fl_right tel_number" class="col span_8">					                                            
-          <a href="mailto:info@psiwebtech.co.uk?Subject=Web%20Contact">info@psiwebtech.co.uk</a> | 020 9999 9999 				                                    
-        </p>	
+        <!--Tel Number and Logo -->                            
+        <?php  
+            require_once("resources/templates/tel-number.php");  
+        ?>      
       </header>	
       
       <!--Navigation -->                          

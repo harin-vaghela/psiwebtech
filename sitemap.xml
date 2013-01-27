@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url> 
+    <loc>http://www.psiwebtech.com/</loc> 
+    <image:image>
+       <image:loc>http://www.psiwebtech.com/assets/images/banner-v2.png</image:loc> 
+    </image:image>
+  </url>
+  <url> 
+    <loc>http://www.psiwebtech.com/article.php?page=about</loc> 
+  </url>  
+  <url> 
+    <loc>http://www.psiwebtech.com/article.php?page=contact</loc> 
+  </url> 
+  <url> 
+    <loc>http://www.psiwebtech.com/article.php?page=services</loc> 
+  </url> 
+  <url> 
+    <loc>http://www.psiwebtech.com/article.php?page=careers</loc> 
+  </url> 
+  <url> 
+    <loc>http://www.psiwebtech.com/article.php?page=itinfrastructure</loc> 
+    <image:image>
+       <image:loc>http://www.psiwebtech.com/assets/images/infrastructure.png</image:loc> 
+    </image:image>    
+  </url> 
+  <url> 
+    <loc>http://www.psiwebtech.com/article.php?page=remote-support</loc> 
+    <image:image>
+       <image:loc>http://www.psiwebtech.com/assets/images/remote-support.png</image:loc> 
+    </image:image>    
+  </url> 
+  <url> 
+    <loc>http://www.psiwebtech.com/article.php?page=procurement</loc> 
+    <image:image>
+       <image:loc>http://www.psiwebtech.com/assets/images/procurement.png</image:loc> 
+    </image:image>    
+  </url> 
+  <url> 
+    <loc>http://www.psiwebtech.com/article.php?page=cloud-services</loc> 
+    <image:image>
+       <image:loc>http://www.psiwebtech.com/assets/images/cloud-services.png</image:loc> 
+    </image:image>    
+  </url>                  
+</urlset>
+
+
+
+
+
+
+
+
+

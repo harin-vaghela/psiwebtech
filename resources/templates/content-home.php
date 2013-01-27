@@ -13,6 +13,6 @@
   <article class="col span_4">
     <h2 class="block  black_line">Get In Touch</h2> 
     <p class="home_block_text">If you'd like to discuss yor specific requirements with us we'd love to hear from you. <br><br><br><br><br></p>				            
-    <a class="block_link" href="mailto:info@psiwebtech.com">> Email Us</a>		            
+    <a class="block_link" href="article.php?page=contact">> Contact Us</a>		            
   </article>                      			              			              			                            
 </section>   

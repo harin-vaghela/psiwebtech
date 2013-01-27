@@ -41,15 +41,25 @@ h2 {
 
 h3 {
   text-transform:uppercase;
+  padding-top:8px;
   font-weight: bold; 
   font-size: 1.20em; 
   color: #5d5d5d; 
 }
 
+h4 {
+  padding-top:6px;
+  font-size: 1.20em;  
+}
+
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { 
 	display: block; }
 								  
-ol, ul { list-style: none; }
+ol, ul {
+  list-style: none; 
+  font-size:1.2em;
+  padding-left: 12px;
+}
 
 blockquote, q { quotes: none; }
 
@@ -86,7 +96,7 @@ table {
 }
 
 #promos A:HOVER {
-  opacity: 0.2;
+  opacity: 0.5;
   filter:alpha(opacity=1000);
 }
 .grey_line {
@@ -137,7 +147,7 @@ float: right;
   padding-left:16px;
   text-transform:uppercase;
   font-weight: bold; 
-  font-size: 1.2em; 
+  font-size: 1.015em; 
   color: #0f3273;
 }
 
@@ -197,5 +207,9 @@ float: right;
 
 .primary {
   padding-bottom:12px;
+}
+
+.services-image {
+  width:100%;
 }
                                                             

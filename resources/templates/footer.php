@@ -9,7 +9,7 @@
         <div class="container">
         <!-- Utility Links -->  
         <div class="col span_6">
-          <p class="bottom_text left_align"><a href="article.php?page=contact">Contact Us</a> | <a href="/">Privacy</a> | <a href="/">Terms and Conditions</a></p>  
+          <p class="bottom_text left_align"><a href="article.php?page=contact">Contact Us</a> | <a href="utility.php?page=privacy">Privacy</a> | <a href="utility.php?page=terms">Terms and Conditions</a></p>  
         </div>
         <div class="col span_6">
           <p class="bottom_text right_align">&copy; PSI Web Tech Ltd. All Rights Reserved.</p>  
