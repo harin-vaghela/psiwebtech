@@ -14,7 +14,9 @@
     <link rel="stylesheet" href="assets/js/themes/light/light.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="assets/js/themes/dark/dark.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="assets/js/themes/bar/bar.css" type="text/css" media="screen" />
-    <link rel="stylesheet" href="assets/js/nivo-slider.css" type="text/css" media="screen" />                              
+    <link rel="stylesheet" href="assets/js/nivo-slider.css" type="text/css" media="screen" />  
+    
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">                                 
   </head>	            
   <body id="body">		                    
     <div id="black_bar"></div>		                    
