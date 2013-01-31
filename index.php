@@ -4,10 +4,10 @@
     <?php  
           require_once("resources/templates/title-keywords.php");  
     ?>   
-
-    <link rel="stylesheet" media="all" href="assets/css/ie.css" />		                                   
-    <link rel="stylesheet" media="all" href="assets/css/reset.css" />		                    
-    <link rel="stylesheet" media="all" href="assets/css/responsive-gs-12col.css" />		
+    
+       	                                   
+    <link rel="stylesheet" media="screen" href="assets/css/reset.css" />		                    
+    <link rel="stylesheet" media="screen" href="assets/css/responsive-gs-12col.css" />		
     
     <!--Styles for Slider-->
     <link rel="stylesheet" href="assets/js/themes/default/default.css" type="text/css" media="screen" />
@@ -16,7 +16,14 @@
     <link rel="stylesheet" href="assets/js/themes/bar/bar.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="assets/js/nivo-slider.css" type="text/css" media="screen" />    
     
-    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">                          
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon"> 
+
+    
+    <!--[if lt IE 9]>
+      <script src="assets/js/html5shiv.js"></script>
+      <link rel="stylesheet" media="all" href="assets/css/ie.css" />		 
+    <![endif]-->                   
+    <script type="text/javascript" src="assets/js/css3-mediaqueries.js"></script>   
   </head>	            
   <body id="body">		                    
     <div id="black_bar"></div>		                    
@@ -61,7 +68,7 @@
           require_once("resources/templates/footer.php");  
       ?>  
         
-      <!--JS for Slider   -->
+      <!--JS for Slider-->   
       <script type="text/javascript" src="assets/js/jquery-1.7.1.min.js"></script>
       <script type="text/javascript" src="assets/js/jquery.nivo.slider.js"></script>
       <script type="text/javascript">
@@ -81,6 +88,7 @@
           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
       
-      </script>    
+      </script>             
+             
   </body>
 </html>
