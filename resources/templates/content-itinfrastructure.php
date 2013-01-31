@@ -2,19 +2,19 @@
       <section class="primary row span_12 about-content grey_line">				                                    
         <article class="col span_8">
           <h2 class="block  black_line">IT Infrastructure Services</h2>
-          <p class="article_block_text">The recent recession has forced nearly every IT organization to rethink its approach. Where once you were asked to do a lot with a little, you're now forced to do even more with even less. Meeting the challenge requires innovative ways to respond to changing business needs, improve flexibility, speed technology innovation, and provide higher business value. Our consulting, managed services and integrated solutions create agile, flexible IT environments.</p>
+          <p class="article_block_text">The recent recession has forced nearly every IT organization to rethink its approach. Where once you were asked to do a lot with a little, you're now forced to do even more with even less. Meeting the challenges require innovative ways to respond to changing business needs, improve flexibility, speed technology innovation, and provide higher business value. Our consulting, managed services and integrated solutions create agile, flexible IT environments.</p>
           <p class="article_block_text">Demand on IT infrastructure is growing as businesses grow increasingly dependent on automation to enter new markets and increase worker productivity. But in today's uncertain economy, most IT budgets are flat. The challenge for application infrastructure managers is to help direct cost to new revenue-generating business opportunities while overseeing the transformation from today's legacy to tomorrow's more dynamic infrastructure. Emerging as the main success drivers are the need for consistent, measurable results and end-to-end visibility.</p>
           
-          <h3>Consulting and professional services</h3>
-          <p class="article_block_text"><b>Enterprise Computing</b> - Our team can help you gain greater return on your investments in traditional and emerging technologies</p>
+          <h3>Consulting and Professional Services</h3>
+          <p class="article_block_text"><b>Enterprise Computing</b> - Our team can help you gain greater return on your investments in traditional and emerging technologies.</p>
           <ul>
-            <li>> IT service Management</li>              
+            <li>> IT Service Management</li>              
             <li>> IT Governance</li>
             <li>> IT Asset and Financial Management</li>
           </ul>           
                     
           <h3>Infrastructure Security</h3>
-          <p class="article_block_text">Our team work on reducing and managing the risk throughout your companies entire IT infrastructure:</p>
+          <p class="article_block_text">Our team work on reducing and managing the risk throughout your companies IT infrastructure:</p>
           <ul>
             <li>> Secure Internet Gateway Assessment</li>              
             <li>> Risk Management</li>
@@ -27,7 +27,7 @@
               <li> > Microsoft SharePoint Infrastructure</li>
               <li> > Enterprise messaging</li>
               <li> > Desktop Services</li>
-              <li> > System management</li>
+              <li> > Systems Management</li>
             </ul>
             <li>> <b>IT Management Services</b></li>
             <ul>
@@ -38,20 +38,20 @@
           </ul>     
                        
           <h3>Managed Services</h3>      
-          <p class="article_block_text"><b>Remote Management</b> - Monitoring every IP-enabled device and process on your network</p>              
+          <p class="article_block_text"><b>Remote Management</b> - Monitoring every IP-enabled device and process on your network.</p>              
           <ul>
-            <li>> End to End Problem and incident management</li>
-            <li>> Continuous improvement</li>
+            <li>> End to End Problem and Incident Management</li>
+            <li>> Continuous Improvement</li>
             <li>> Better Reporting</li>
           </ul>
-          <p class="article_block_text"><b>Enterprise Management</b> - identify and prioritize the most cost efficient IT projects for your company</p>
+          <p class="article_block_text"><b>Enterprise Management</b> - identify and prioritize the most cost efficient IT projects for your company.</p>
             <ul>
-              <li>> Server / OS management</li>
+              <li>> Server / OS Management</li>
               <li>> Storage - SAN / NAS  Management</li>
-              <li>> Remote desktop management</li>
-              <li>> Data centre services</li>
+              <li>> Remote Desktop Management</li>
+              <li>> Data Centre Services</li>
             </ul>
-            <p class="article_block_text"><b>Infrastructure Security Management</b> - IT Security experts can help your company reduce and manage its ricks from traditional and emerging technologies</p>
+            <p class="article_block_text"><b>Infrastructure Security Management</b> - IT Security experts can help your company reduce and manage its ricks from traditional and emerging technologies.</p>
             <ul>
               <li>> Managed Firewall Service</li>
               <li>> Log Management</li>

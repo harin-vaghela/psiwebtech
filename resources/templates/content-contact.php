@@ -15,7 +15,7 @@
     </article>      
     <article class="col span_4">
       <h2 class="block  black_line">About Us</h2> 
-      <p class="block_text">At <strong>PSI WEB TECH</strong>, our success is based on our ability to create win-win relationships with our customers. We take great pride in everything we do, and invite you to pick up the phone and speak to anyone, at any time, about any part of your business.</p>				            
+      <p class="block_text">At PSI our success is based on our ability to create win-win relationships with our customers. We take great pride in everything we do, and invite you to pick up the phone and speak to anyone, at any time, about any part of your business.</p>				            
       <a class="block_link" href="">> Read More</a>
     </article>                                                      			              			              			                            
   </section>   
