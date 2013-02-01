@@ -16,7 +16,12 @@
     <link rel="stylesheet" href="assets/js/themes/bar/bar.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="assets/js/nivo-slider.css" type="text/css" media="screen" />  
     
-    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">                                 
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">     
+   <!--[if lt IE 9]>
+      <script src="assets/js/html5shiv.js"></script>
+      <link rel="stylesheet" media="all" href="assets/css/ie.css" />		 
+    <![endif]-->                   
+    <script type="text/javascript" src="assets/js/css3-mediaqueries.js"></script>     
   </head>	            
   <body id="body">		                    
     <div id="black_bar"></div>		                    
